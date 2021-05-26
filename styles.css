@@ -50,7 +50,7 @@ span{
 }
 
 .top-cloud{
-  position: fixed;
+  position: absolute;
   right: 400px;
   top: 50px;
 }
